@@ -1,0 +1,2 @@
+# Sentiment-Analysis-from-Quora
+This code is encompassed of 2 programs written in Python. On Scrapes data off of Quora and stores it into a Cassandra Database. This is done using the Beautiful Soup library recursively run for all related questions as well. The Analysis is then done using a paper based algorithm called VADER which portrays the net positivity, negativity and neutrality that one could expect in any Quora answer.
